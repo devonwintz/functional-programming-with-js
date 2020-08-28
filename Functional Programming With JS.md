@@ -38,7 +38,7 @@ let product = (x, y) => {
     console.log(`The product of ${x} and ${y} is`, x*y)
 }
 
-//Function All
+//Function Call
   product(3, 4)
   
 // Output: The product of 3 and 4 is 12
